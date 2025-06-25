@@ -110,7 +110,9 @@ Vivado also provides features to assist in routing and connecting the logic bloc
 - Hardware implementation shows faster performance compared to software-only approaches
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cbcc6f84-48c5-4251-9d35-f45a1d5254ec" alt="ALGORITHM POWER RESULTS
+
+
+  <img src="https://github.com/user-attachments/assets/99d2e8a4-ce6a-487b-95ac-9b51a48e30fe" alt="ALGORITHM POWER RESULTS
 " width="600"/>
   <br>
   <b>Fig 1.6:ALGORITHM POWER RESULTS </b>

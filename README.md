@@ -124,7 +124,7 @@ Vivado also provides features to assist in routing and connecting the logic bloc
   <b>Fig 1.7: Results in Jupyter Notebook</b>
 </p>
 
-###  Code:
+
 
 
 
